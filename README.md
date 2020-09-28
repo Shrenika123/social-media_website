@@ -1,3 +1,5 @@
+check the live demo https://instagram-clone-72ba9.web.app/
+
 This project is a demonstration of a clone of social media (instagram)
 
 ## Available Scripts
