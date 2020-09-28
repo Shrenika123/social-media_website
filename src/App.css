@@ -1,0 +1,48 @@
+*{
+  margin:0
+}
+
+.app{
+  background-color: #FAFAFA;
+  height:100vmin;
+  display: flex;
+  width:100%;
+  flex-direction: column;
+
+  
+
+}
+.app_header{
+  display: flex;
+  object-fit: contain;
+  background-color:white;
+  padding:20px;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  position: sticky;
+  z-index: 100;
+  top:0
+}
+
+.app_form{
+  display: flex;
+  flex-direction: column;
+}
+
+.InstaImage{
+  object-fit: contain;
+}
+
+.posts{
+  display: flex;
+  justify-content: center;
+}
+
+.post_right{
+  margin-left: 30px;
+}
+
+.button_auth{
+  font-family: 'Courier New', Courier, monospace !important;
+}
